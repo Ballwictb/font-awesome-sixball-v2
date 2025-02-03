@@ -21,7 +21,15 @@
       &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Ballwictb/font-awesome-sixball-v2@main/six-rp/css/all.min.css"&gt;
     </code>
   </pre>
-
+  
+  <p>
+    También puedes acceder al CDN directamente desde el siguiente enlace:
+  </p>
+  <p>
+    <a href="https://cdn.jsdelivr.net/gh/Ballwictb/font-awesome-six@main/six-rp/css/all.min.css">
+      <strong>🔗 Enlace al CDN</strong>
+    </a>
+  </p>
 
   <h2>📂 Características principales</h2>
   <ul align="left">
