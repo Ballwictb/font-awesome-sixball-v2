@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🎱 Font-Awesome-Sixball 🎱</h1>
   <p>
-    Una librería de iconos inspirada en Font Awesome con un toque especial. <br>
+    Una librería de iconos con un toque especial. <br>
     Perfecta para darle un estilo único a tus proyectos web y aplicaciones.
   </p>
 
