@@ -67,9 +67,4 @@
 
   <hr>
 
-  <h2>📜 Licencia</h2>
-  <p>
-    Font-Awesome-Sixball es un proyecto de código abierto bajo la licencia MIT. <br>
-    Siéntete libre de usarlo, modificarlo y contribuir con mejoras.
-  </p>
 </div>
